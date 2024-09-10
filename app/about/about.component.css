@@ -1,0 +1,36 @@
+h4
+{
+    padding: 10px 10px;
+    border-bottom:10px;
+    width: 40%;
+    position:relative;
+    left:30%;
+    color: #39FF14;;
+    border-color: black;
+    border-style: none;
+    background-color: black;
+    font-weight: bold;
+    /* font-family:cursive; */
+    border-bottom-color: rgb(138, 255, 79);
+    border-bottom-style:groove;
+    
+    font-size: large;
+    font-family:monospace;
+}
+h1
+{
+    padding: 10px 10px;
+    border-bottom:10px;
+    width: 40%;
+    position:relative;
+    left:30%;
+    color: #39FF14;;
+    border-color: black;
+    border-style: none;
+    background-color: black;
+    font-weight: bold;
+    /* font-family:cursive; */
+    border-bottom-color: rgb(138, 255, 79);
+    border-bottom-style:groove;
+    font-family:monospace;
+}
